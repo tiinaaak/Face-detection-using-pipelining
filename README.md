@@ -1,0 +1,1 @@
+This project presents a face detection system implemented as a pipeline, taking inspiration from computer architecture principles. The pipeline comprises five stages to efficiently process images and identify faces within them.
